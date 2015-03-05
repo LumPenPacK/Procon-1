@@ -52,6 +52,7 @@ procon.protected.serverversions.add BF4 "150767" "R43"
 procon.protected.serverversions.add BF4 "154100" "R44"
 procon.protected.serverversions.add BF4 "154793" "R45"
 procon.protected.serverversions.add BF4 "155011" "R46"
+procon.protected.serverversions.add BF4 "155353" "R47"
 procon.protected.serverversions.add BF4 "157186" "R48"
 
 procon.protected.specialization.clear
